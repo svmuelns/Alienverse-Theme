@@ -1,0 +1,43 @@
+{
+    "name": "alienverse",
+    "displayName": "Alienverse Theme",
+    "description": "Unique. Made by svmuelns",
+    "version": "1.0.0",
+    "publisher": "svmuelns",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/svmuelns/Alienverse-Theme"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "dark theme",
+        "alien",
+        "alien theme",
+        "alien dark theme",
+        "universe",
+        "galaxy",
+        "spaceship",
+        "alienverse",
+        "alienverse theme",
+        "alienverse dark theme"
+    ],
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Alienverse Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Alienverse Theme-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "latest-version": "^6.0.0"
+    }
+}
