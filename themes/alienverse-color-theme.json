@@ -339,7 +339,7 @@
 			"name": "Python Argument",
 			"scope": [
 				"variable.parameter.function.language.python"
-			],
+			], //qlo
 			"settings": {
 				"foreground": "#FFCBD3"
 			}
